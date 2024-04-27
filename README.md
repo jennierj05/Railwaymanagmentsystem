@@ -9,8 +9,6 @@ A comprehensive web application for managing railway operations including user r
 - **User Login & Admin Login:**
   ![User and Admin Login](https://github.com/jennierj05/Railwaymanagmentsystem/assets/149866579/8797557a-3cc0-4444-a59a-5d3ac0efc695)
   
-- **Registration:**
-  ![Registration](https://github.com/jennierj05/Railwaymanagmentsystem/assets/149866579/226ceafe-5987-4783-91d6-d0b9011a16f4)
   
 - **User Portal:**
   ![User Portal](https://github.com/jennierj05/Railwaymanagmentsystem/assets/149866579/558d44b8-dfbf-4e8f-ba83-ef1a85a43310)
